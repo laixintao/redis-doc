@@ -639,6 +639,7 @@
     "language": "Python",
     "repository": "https://github.com/laixintao/iredis",
     "description": "A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.",
+    "url": "https://iredis.io",
     "authors": ["laixintao"]
   }
 ]
